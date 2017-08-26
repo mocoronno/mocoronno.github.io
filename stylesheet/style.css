@@ -14,17 +14,11 @@ body {
 	font-size:30px;
 }
 
-.main-case {
-	background-color:#EDEEF0;
-	width:1000px;
-	margin:20px auto;
-	min-height:100px;
-	border-radius:3px;
-	padding:10px;
-	color:black;
+div {
+	background-color:lightgreen;
+	
 }
 
-.rabbit {
-	margin:20px auto;
-	width:400px;
+h1 {
+	font-family: "Lobster", cursive;
 }
