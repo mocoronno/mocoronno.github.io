@@ -1,5 +1,4 @@
-﻿
-/* font-family: "Lobster", cursive; */
+﻿/* font-family: "Lobster", cursive; */
 @font-face {
 	font-family: "Gagalin-Regular";
 	src: url("fonts/Gagalin-Regular/Gagalin-Regular.eot");
@@ -9,6 +8,7 @@
 	font-style: normal;
 	font-weight: normal;
 }
+
 /* font-family: "RobotoRegular"; */
 @font-face {
 	font-family: "RobotoRegular";

@@ -3,22 +3,56 @@
 }
 
 body {
-	background-image:url(../images/backgrounds/body.png);
+	background-image:url(../images/backgrounds/black-back.png);
+	padding:0;
+	margin:0;
+	font-family: "RobotoRegular";
+	color:#000;
+	font-size:16px;
+}
+
+.wrapper {
+	min-width:800px;
+}
+
+.title {
+	font-family: "Lobster", cursive;
+	font-size:30px;
 	padding:0;
 	margin:0;
 }
 
-#wrapper {
-	font-family: "RobotoRegular";
-	color:white;
-	font-size:30px;
+.text {
+	font-family: "RobotoCondensedRegular";
+	font-size:20px;
 }
 
-div {
-	background-color:lightgreen;
-	
+.content {
+	min-height:100px;
+	background-color:#FFFFFF;
+	border:10px solid #C3C4C7;
+	border-radius:20px;
+	margin:10px;
+	margin-right:220px;
 }
 
-h1 {
-	font-family: "Lobster", cursive;
+.sidebar {
+	width:200px;
+	float:right;
+	margin:10px;
+}
+
+.sidebar-1 {
+	min-height:300px;
+	margin-bottom:10px;
+	background-color:#272727;
+	border-radius:20px;
+	border:10px solid #C3C4C7;
+}
+
+.sidebar-2 {
+	min-height:300px;
+	background-color:#272727;
+	border-radius:20px;
+	border:10px solid #C3C4C7;
 }
